@@ -1,0 +1,1626 @@
+[
+    {
+        "name": "Monash University",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Arts",
+                "course_code": "A2000",
+                "field": "Arts",
+                "min_ib": 26,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true",
+                "data_status": "verified",
+                "data_note": "2027 international entry score published by Monash University.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Science",
+                "course_code": "S2000",
+                "field": "Science",
+                "min_ib": 28,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true",
+                "data_status": "verified",
+                "data_note": "2027 international entry score published by Monash University.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Business",
+                "course_code": "B2000",
+                "field": "Business",
+                "min_ib": 27,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true",
+                "data_status": "verified",
+                "data_note": "2027 international entry score published by Monash University.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": "B2001",
+                "field": "Business",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true",
+                "data_status": "needs_review",
+                "data_note": "Current 2027 IB entry score could not be reliably confirmed from the official course page.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Business Administration",
+                "course_code": "B2007",
+                "field": "Business",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true",
+                "data_status": "needs_review",
+                "data_note": "Current 2027 IB entry score could not be reliably confirmed from the official course page.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Information Technology",
+                "course_code": "C2000",
+                "field": "IT",
+                "min_ib": 26,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true",
+                "data_status": "verified",
+                "data_note": "2027 international IB entry score published by Monash University.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Engineering (Honours)",
+                "course_code": "E3001",
+                "field": "Engineering",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true",
+                "data_status": "needs_review",
+                "data_note": "Current 2027 IB entry score requires further course-specific verification.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Computer Science",
+                "course_code": "C2001",
+                "field": "Computer Science",
+                "min_ib": 28,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 12,
+                        "reading": 13,
+                        "speaking": 18,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true",
+                "data_status": "verified",
+                "data_note": "2027 international IB entry score published by Monash University.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "The University of Queensland",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": "2461",
+                "field": "Science",
+                "min_ib": 30.25,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 87,
+                        "listening": 19,
+                        "reading": 19,
+                        "speaking": 19,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://study.uq.edu.au/study-options/programs/bachelor-science-2461?year=2027",
+                "data_status": "indicative",
+                "data_note": "IB score is the lowest adjusted score that received an offer in Semester 1 2026, not a guaranteed 2027 minimum.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": "2336",
+                "field": "Business",
+                "min_ib": 31,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 87,
+                        "listening": 19,
+                        "reading": 19,
+                        "speaking": 19,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://study.uq.edu.au/study-options/programs/bachelor-commerce-2336?year=2027",
+                "data_status": "indicative",
+                "data_note": "IB score is the lowest adjusted score that received an offer in Semester 1 2026, not a guaranteed 2027 minimum.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Computer Science",
+                "course_code": "2559",
+                "field": "Computer Science",
+                "min_ib": 32,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 87,
+                        "listening": 19,
+                        "reading": 19,
+                        "speaking": 19,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2559?year=2027",
+                "data_status": "indicative",
+                "data_note": "IB score is the lowest adjusted score that received an offer in Semester 1 2026, not a guaranteed 2027 minimum.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "Australian National University",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": "BSC",
+                "field": "Science",
+                "min_ib": 30,
+                "english": null,
+                "intake": null,
+                "official_url": "https://programsandcourses.anu.edu.au/2027/program/BSC",
+                "data_status": "verified",
+                "data_note": "2027 ANU program information lists an IB entry score of 30.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of International Business",
+                "course_code": "BINBS",
+                "field": "Business",
+                "min_ib": 30,
+                "english": null,
+                "intake": null,
+                "official_url": "https://programsandcourses.anu.edu.au/2027/program/BINBS",
+                "data_status": "verified",
+                "data_note": "2027 ANU program information lists an IB entry score of 30.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "UNSW Sydney",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": "3502",
+                "field": "Business",
+                "min_ib": 41,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 90,
+                        "listening": 22,
+                        "reading": 22,
+                        "speaking": 22,
+                        "writing": 23
+                    }
+                },
+                "intake": [
+                    "Term 1",
+                    "Term 2",
+                    "Term 3"
+                ],
+                "official_url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce?studentType=international",
+                "data_status": "indicative",
+                "data_note": "IB 41 is an indicative 2026 IB score used as a guide for entry; it is not a confirmed 2027 minimum.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Science",
+                "course_code": "3970",
+                "field": "Science",
+                "min_ib": 37,
+                "english": {
+                    "ielts": {
+                        "overall": 6.0,
+                        "listening": 5.5,
+                        "reading": 5.5,
+                        "speaking": 5.5,
+                        "writing": 5.5
+                    },
+                    "toefl": {
+                        "overall": 79,
+                        "listening": 11,
+                        "reading": 12,
+                        "speaking": 17,
+                        "writing": 21
+                    }
+                },
+                "intake": [
+                    "Term 1",
+                    "Term 2",
+                    "Term 3"
+                ],
+                "official_url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-science",
+                "data_status": "indicative",
+                "data_note": "IB 37 is based on the published 2026 indicative entry information and should not be treated as a confirmed 2027 minimum.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "Adelaide University",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 25,
+                "english": null,
+                "intake": null,
+                "official_url": "https://adelaide.edu.au/study/degrees/bachelor-of-science/",
+                "data_status": "verified",
+                "data_note": "2027 international course information lists an IB entry requirement of 25.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce majoring in Accounting and Financial Planning",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 28,
+                "english": null,
+                "intake": null,
+                "official_url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-accounting-and-financial-planning/int/",
+                "data_status": "verified",
+                "data_note": "2027 international course information lists an IB entry requirement of 28.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "The University of Western Australia",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Environmental Science and Master of Environmental Science",
+                "course_code": "CM008",
+                "field": "Environmental Science",
+                "min_ib": 32,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": null,
+                "official_url": "https://www.uwa.edu.au/study/courses/bachelor-of-environmental-science-and-master-of-environmental-science",
+                "data_status": "verified",
+                "data_note": "Official UWA course page lists IB 32 and IELTS 6.5 with no band below 6.0. Mathematics and Chemistry prerequisites also apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Science and Master of Teaching (Secondary)",
+                "course_code": "CM023",
+                "field": "Science",
+                "min_ib": 28,
+                "english": null,
+                "intake": [
+                    "Semester 1"
+                ],
+                "official_url": "https://www.uwa.edu.au/study/courses/bachelor-of-science-and-master-of-teaching-secondary",
+                "data_status": "verified",
+                "data_note": "Official UWA course information lists IB 28.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Arts and Master of Teaching (Secondary)",
+                "course_code": null,
+                "field": "Arts",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.uwa.edu.au/study/courses/bachelor-of-arts-and-master-of-teaching-secondary",
+                "data_status": "verified",
+                "data_note": "Official UWA course information lists IB 24.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "The University of Melbourne",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 81,
+                        "listening": 16,
+                        "reading": 16,
+                        "speaking": 19,
+                        "writing": 19
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/",
+                "data_status": "needs_review",
+                "data_note": "The University publishes course-specific selection information and IB pathways, but a current 2027 IB minimum could not be reliably confirmed. Do not infer an IB score from the 2026 selection rank.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 81,
+                        "listening": 16,
+                        "reading": 16,
+                        "speaking": 19,
+                        "writing": 19
+                    }
+                },
+                "intake": [
+                    "February",
+                    "July"
+                ],
+                "official_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/",
+                "data_status": "needs_review",
+                "data_note": "The University publishes a 2026 lowest selection rank guide, but a current 2027 IB minimum could not be reliably confirmed. Do not infer an IB score from the selection rank.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "The University of Sydney",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": null,
+                "english": null,
+                "intake": [
+                    "Semester 1",
+                    "Semester 2"
+                ],
+                "official_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-science.html",
+                "data_status": "needs_review",
+                "data_note": "The official course page does not currently provide a reliably extractable 2027 IB entry score. The University states that international qualification entry scores are course-specific.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": null,
+                "english": null,
+                "intake": [
+                    "Semester 1",
+                    "Semester 2"
+                ],
+                "official_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-commerce.html",
+                "data_status": "needs_review",
+                "data_note": "The official course page does not currently provide a reliably extractable 2027 IB entry score. The University states that international qualification entry scores are course-specific.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "Curtin University",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Information Technology",
+                "course_code": "B-IT",
+                "field": "IT",
+                "min_ib": 24,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": null,
+                "official_url": "https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-information-technology--b-inftec/?region=int",
+                "data_status": "indicative",
+                "data_note": "Official Curtin course page lists an indicative IB equivalent cut-off of 24 for an ATAR equivalent of 70. Course-specific requirements may also apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Business Administration",
+                "course_code": "B-BUSADM",
+                "field": "Business",
+                "min_ib": 24,
+                "english": {
+                    "ielts": {
+                        "overall": 6.0,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": null,
+                "official_url": "https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-business-administration--b-busadm/?region=int",
+                "data_status": "indicative",
+                "data_note": "Official Curtin course page lists an indicative IB equivalent cut-off of 24. English requirement shown on the official course page is IELTS 6.0 overall with 6.0 in each component.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Arts",
+                "course_code": "B-ARTS",
+                "field": "Arts",
+                "min_ib": 24,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": null,
+                "official_url": "https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-arts--b-arts/?region=int",
+                "data_status": "indicative",
+                "data_note": "Official Curtin course page lists an indicative IB equivalent cut-off of 24 for an ATAR equivalent of 70.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Communications",
+                "course_code": "B-MASCOMS",
+                "field": "Arts",
+                "min_ib": 24,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": null,
+                "official_url": "https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-communications--b-mascoms/?region=int",
+                "data_status": "indicative",
+                "data_note": "Official Curtin course page lists an indicative IB equivalent cut-off of 24 for an ATAR equivalent of 70.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "Murdoch University",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Arts",
+                "course_code": "B1356",
+                "field": "Arts",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.murdoch.edu.au/course/undergraduate/b1356",
+                "data_status": "verified",
+                "data_note": "Murdoch's official course page states a minimum International Baccalaureate Diploma total score of 24 or higher. English may also be demonstrated through IB English subject results.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Information Technology",
+                "course_code": "B1390",
+                "field": "IT",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.murdoch.edu.au/course/undergraduate/b1390",
+                "data_status": "verified",
+                "data_note": "Murdoch's official course page states a minimum International Baccalaureate Diploma total score of 24 or higher.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Information Technology and Business",
+                "course_code": "B1375",
+                "field": "Business",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.murdoch.edu.au/course/undergraduate/b1375",
+                "data_status": "verified",
+                "data_note": "Murdoch's official course page states a minimum International Baccalaureate Diploma total score of 24 or higher.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Business",
+                "course_code": "B1367",
+                "field": "Business",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.murdoch.edu.au/course/undergraduate/b1367",
+                "data_status": "verified",
+                "data_note": "Murdoch's official course information uses a minimum selection rank of 70, equivalent to an IB Diploma score of 24 or higher for general undergraduate entry.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Tasmania",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.utas.edu.au/study/apply/admission-requirements/entry-requirements-by-country",
+                "data_status": "verified",
+                "data_note": "The University of Tasmania's official international entry requirements list an overall IB Diploma score of 24 for undergraduate entry. Course-specific prerequisites may also apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Business",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 24,
+                "english": null,
+                "intake": null,
+                "official_url": "https://www.utas.edu.au/study/apply/admission-requirements/entry-requirements-by-country",
+                "data_status": "verified",
+                "data_note": "The University of Tasmania's official international entry requirements list an overall IB Diploma score of 24 for undergraduate entry. Course-specific prerequisites may also apply.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Wollongong",
+        "country": "Australia",
+        "courses": [
+            {
+                "name": "Bachelor of Science / Bachelor of Arts",
+                "course_code": "3310",
+                "field": "Science",
+                "min_ib": 26.25,
+                "english": null,
+                "intake": [
+                    "Autumn",
+                    "Spring"
+                ],
+                "official_url": "https://www.uow.edu.au/study/courses/bachelor-of-science-smah---bachelor-of-arts/?campus=Wollongong&students=domestic&year=2027",
+                "data_status": "indicative",
+                "data_note": "The official 2027 UOW course page lists an IBAS of 26.25 and an ATAR-SR of 70. IBAS is an admissions score/selection indicator rather than a guaranteed minimum offer score.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": null,
+                "english": null,
+                "intake": [
+                    "Autumn",
+                    "Spring"
+                ],
+                "official_url": "https://www.uow.edu.au/study/courses/bachelor-of-science---smah/",
+                "data_status": "needs_review",
+                "data_note": "The official UOW course page confirms IB applicants are eligible to apply, but a current 2027 IBAS value was not reliably extracted for this course. No value has been inferred.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "The University of Manchester",
+        "country": "United Kingdom",
+        "courses": [
+            {
+                "name": "BSc Management",
+                "course_code": "N201",
+                "field": "Business",
+                "min_ib": 36,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/",
+                "data_status": "verified",
+                "data_note": "2027 entry: typical International Baccalaureate offer is 36 points overall with 6,6,6 in Higher Level subjects.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc Management (Accounting and Finance)",
+                "course_code": "NN24",
+                "field": "Business",
+                "min_ib": 36,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03520/bsc-management-accounting-and-finance/",
+                "data_status": "verified",
+                "data_note": "2027 entry: typical International Baccalaureate offer is 36 points overall with 6,6,6 in Higher Level subjects.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc Management (International Business Economics)",
+                "course_code": "N246",
+                "field": "Business",
+                "min_ib": 36,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "listening": 6.0,
+                        "reading": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03527/bsc-management-international-business-economics/",
+                "data_status": "verified",
+                "data_note": "2027 entry: typical International Baccalaureate offer is 36 points overall with 6,6,6 in Higher Level subjects.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University College London",
+        "country": "United Kingdom",
+        "courses": [
+            {
+                "name": "Information, Data and Society BSc",
+                "course_code": "GL00",
+                "field": "IT",
+                "min_ib": 34,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/information-data-and-society-bsc",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB Diploma 34 points, including 16 points in three Higher Level subjects with no Higher Level score below 5.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Management for Social Change BSc",
+                "course_code": "N200",
+                "field": "Business",
+                "min_ib": 38,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-social-change-bsc",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB Diploma 38 points, including 18 points in three Higher Level subjects with no Higher Level score below 5.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "International Management BSc",
+                "course_code": "N290",
+                "field": "Business",
+                "min_ib": 39,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/international-management-bsc",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB Diploma 39 points, including 19 points in three Higher Level subjects with no score below 5.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Environmental Geoscience BSc",
+                "course_code": "F644",
+                "field": "Environmental Science",
+                "min_ib": null,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/environmental-geoscience-bsc",
+                "data_status": "needs_review",
+                "data_note": "The 2027 official course page confirms A-level and subject requirements, but a reliably extractable 2027 IB points requirement was not found. No IB value has been inferred.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Biological Sciences BSc",
+                "course_code": "C900",
+                "field": "Science",
+                "min_ib": null,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc",
+                "data_status": "needs_review",
+                "data_note": "The 2027 official course page confirms AAA A-level requirements and required subjects, but the IB points requirement was not reliably extractable from the current page.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Bristol",
+        "country": "United Kingdom",
+        "courses": [
+            {
+                "name": "BSc Biology",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 36,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-biology/",
+                "data_status": "verified",
+                "data_note": "2027 entry: 36 IB points overall with 18 at Higher Level, including 6,6 at Higher Level in Biology and another science-related subject.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc Computer Science with Artificial Intelligence",
+                "course_code": null,
+                "field": "Computer Science",
+                "min_ib": 38,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/bsc-computer-science-with-artificial-intelligence/",
+                "data_status": "verified",
+                "data_note": "2027 entry: 38 IB points overall with 18 at Higher Level, including 7 at Higher Level in Mathematics.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc Economics and Econometrics with Study Abroad",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 38,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-econometrics-with-study-abroad/",
+                "data_status": "verified",
+                "data_note": "2027 entry: 38 IB points overall with 18 at Higher Level, including Mathematics at 6 Higher Level or 7 Standard Level (Analysis and Approaches).",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc International Social and Public Policy with Study Abroad",
+                "course_code": null,
+                "field": "Social Science",
+                "min_ib": 34,
+                "english": null,
+                "intake": [
+                    "September"
+                ],
+                "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-international-social-and-public-policy-with-study-abroad/",
+                "data_status": "verified",
+                "data_note": "2027 entry: 34 IB points overall with 17 at Higher Level.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Warwick",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "Biological Sciences BSc",
+                "course_code": "C100",
+                "field": "Science",
+                "min_ib": 34,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biological-sciences/",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB 34 including 5 in HL Biology and 5 in HL Chemistry, Physics, Maths, Geography or Psychology; OR IB 36 including 5 in HL Biology. Additional Chemistry requirement applies if Chemistry is not taken at HL.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Global Politics with Integrated Year Abroad in Brussels BA",
+                "course_code": null,
+                "field": "Social Science",
+                "min_ib": 36,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://warwick.ac.uk/study/undergraduate/courses/ba-global-politics/",
+                "data_status": "verified",
+                "data_note": "2027 entry typical IB offer: 36. Contextual offer is 32, but standard offer is used for this database.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "History and Politics BA",
+                "course_code": null,
+                "field": "Social Science",
+                "min_ib": 36,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-politics/",
+                "data_status": "verified",
+                "data_note": "2027 entry typical IB offer: 36 with at least 6 in HL History.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Politics and International Studies BA",
+                "course_code": "L260",
+                "field": "Social Science",
+                "min_ib": 36,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies/",
+                "data_status": "verified",
+                "data_note": "2027 entry typical IB offer: 36.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "The University of Edinburgh",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "Biological Sciences BSc (Hons)",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "reading": 5.5,
+                        "listening": 5.5,
+                        "speaking": 5.5,
+                        "writing": 5.5
+                    },
+                    "toefl": null
+                },
+                "intake": ["September"],
+                "official_url": "https://study.ed.ac.uk/programmes/undergraduate/4-biological-sciences/entry-requirements",
+                "data_status": "needs_review",
+                "data_note": "Official page gives recent offer ranges rather than one simple minimum score: 37 with 666 at HL to 32 with 655 at HL. Requires HL Biology 5 and HL Chemistry 5, plus SL Mathematics or Physics 6 and SL English 5. A single min_ib value would oversimplify the requirement.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Artificial Intelligence and Computer Science BSc",
+                "course_code": null,
+                "field": "Computer Science",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "reading": 5.5,
+                        "listening": 5.5,
+                        "speaking": 5.5,
+                        "writing": 5.5
+                    },
+                    "toefl": null
+                },
+                "intake": ["September"],
+                "official_url": "https://study.ed.ac.uk/programmes/undergraduate/66-artificial-intelligence-and-computer-science/entry-requirements",
+                "data_status": "needs_review",
+                "data_note": "Official page gives a recent offer range from 43 points with 777 at HL to 34 points with 665 at HL, with HL Mathematics Analysis and Approaches 6 required. A single minimum IB value would be misleading.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Business Management MA (Hons)",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": null,
+                "english": {
+                    "ielts": {
+                        "overall": 7.0,
+                        "reading": 6.0,
+                        "listening": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": null
+                },
+                "intake": ["September"],
+                "official_url": "https://study.ed.ac.uk/programmes/undergraduate/182-business-management/entry-requirements",
+                "data_status": "needs_review",
+                "data_note": "Official page gives recent offer range from 40 points with 766 at HL to 37 points with 666 at HL, with SL English 5 and SL Mathematics 5. A single minimum IB value would be misleading.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "King's College London",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "Business Management BSc",
+                "course_code": "N200",
+                "field": "Business",
+                "min_ib": 38,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/requirements",
+                "data_status": "verified",
+                "data_note": "IB 38 overall or 19 from three HL subjects. Must include grade 6 in an HL Humanities or Social Science subject.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Computer Science BSc",
+                "course_code": "G400",
+                "field": "Computer Science",
+                "min_ib": 39,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/requirements",
+                "data_status": "verified",
+                "data_note": "IB 39 overall or 20 from three HL subjects. Must include grade 6 in HL Mathematics: Analysis & Approaches.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Natural Sciences BSc",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 36,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/requirements",
+                "data_status": "verified",
+                "data_note": "IB 36 overall or 18 from three HL subjects. Must include HL Mathematics: Analysis & Approaches 6 and HL Biology, Chemistry, Physics or Computer Science 6.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Leeds",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "BSc Accounting and Finance",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 35,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://business.leeds.ac.uk/undergraduate/doc/entry-requirements",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB 35 overall with 17 points from Higher Level subjects. Mathematics and English requirements also apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc Banking and Finance",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 35,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://business.leeds.ac.uk/undergraduate/doc/entry-requirements",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB 35 overall with 17 points from Higher Level subjects. Mathematics and English requirements also apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc Business and Intelligent Technologies",
+                "course_code": "N1I4",
+                "field": "Business",
+                "min_ib": 35,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://courses.leeds.ac.uk/k239/business-and-intelligent-technologies-bsc",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB 35 overall with 16 points from Higher Level subjects. Mathematics requirement applies.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BA Business Management",
+                "course_code": "N200",
+                "field": "Business",
+                "min_ib": null,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://courses.leeds.ac.uk/I475/business_management_ba",
+                "data_status": "needs_review",
+                "data_note": "2027 course page confirmed, but a reliable IB score was not extracted from the official course page during this verification. No value inferred.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "BSc International Business",
+                "course_code": "N120",
+                "field": "Business",
+                "min_ib": null,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://courses.leeds.ac.uk/f831/international-business-bsc",
+                "data_status": "needs_review",
+                "data_note": "2027 course confirmed, but the IB requirement was not reliably extracted from the official page. No value inferred.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Birmingham",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "Business Management BSc",
+                "course_code": "N200",
+                "field": "Business",
+                "min_ib": 32,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+                "data_status": "verified",
+                "data_note": "IB 32 overall with 6,6,5 at Higher Level.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Computer Science BSc",
+                "course_code": "G400",
+                "field": "Computer Science",
+                "min_ib": 32,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-bsc",
+                "data_status": "verified",
+                "data_note": "IB minimum 32 overall with 7,6,6 at Higher Level, including 6 in Mathematics. SL English 5 also required.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Environmental Science BSc",
+                "course_code": "F900",
+                "field": "Environmental Science",
+                "min_ib": 32,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/environmental-science-bsc",
+                "data_status": "verified",
+                "data_note": "IB 32 overall with 6,5,5 at Higher Level, including one accepted science subject. Accepted sciences include Biology, Chemistry, Computing, Environmental Studies, Geography, Geology, Maths, Physics and others.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Nottingham",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "Biology BSc",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 32,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.nottingham.ac.uk/ugstudy/course/Biology-BSc",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB 32 overall or 6,6,5 in three HL certificates. Requires HL Biology 6 and 5 in a second science subject.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Computer Science and Artificial Intelligence BSc",
+                "course_code": null,
+                "field": "Computer Science",
+                "min_ib": 36,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.nottingham.ac.uk/ugstudy/course/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc",
+                "data_status": "verified",
+                "data_note": "2027 entry: IB 36 overall. Mathematics requirements also apply.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "Durham University",
+        "country": "UK",
+        "courses": [
+            {
+                "name": "Modern Languages and Cultures with Year Abroad BA (Hons)",
+                "course_code": "RV92",
+                "field": "Arts",
+                "min_ib": 37,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.durham.ac.uk/study/courses/",
+                "data_status": "verified",
+                "data_note": "IB Diploma 37 with 666 in Higher Level subjects. Additional required language subjects apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Modern European Languages and History with Year Abroad BA (Hons)",
+                "course_code": "R002",
+                "field": "Arts",
+                "min_ib": 37,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.durham.ac.uk/study/courses/",
+                "data_status": "verified",
+                "data_note": "IB Diploma 37 with 666 in Higher Level subjects. Additional language and History requirements apply.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Toronto",
+        "country": "Canada",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 27,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://future.utoronto.ca/requirements-international-high-schools",
+                "data_status": "indicative",
+                "data_note": "IB Diploma required including English HL or SL. University states a predicted score of 27 or more is required for a provisional offer, but more competitive programs require higher scores. Program-specific prerequisites apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 27,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://future.utoronto.ca/requirements-international-high-schools",
+                "data_status": "indicative",
+                "data_note": "IB Diploma required including English HL or SL. University states a predicted score of 27 or more is required for a provisional offer, but more competitive programs require higher scores. Mathematics prerequisites apply to business programs.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of British Columbia",
+        "country": "Canada",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 24,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://vancouver.calendar.ubc.ca/admissions/applicants-international-baccalaureate-and-advanced-placement-courses",
+                "data_status": "indicative",
+                "data_note": "University minimum: IB Diploma with at least 24 points including bonus points. A higher score is required for admission to most programs due to limited enrolment. Program-specific prerequisites apply.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 24,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://vancouver.calendar.ubc.ca/admissions/applicants-international-baccalaureate-and-advanced-placement-courses",
+                "data_status": "indicative",
+                "data_note": "University minimum: IB Diploma with at least 24 points including bonus points. A higher score is required for admission to most programs. Commerce has program-specific prerequisite requirements.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "McGill University",
+        "country": "Canada",
+        "courses": [
+            {
+                "name": "Bachelor of Arts",
+                "course_code": null,
+                "field": "Arts",
+                "min_ib": 33,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "reading": 6.0,
+                        "listening": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 90,
+                        "reading": 21,
+                        "listening": 21,
+                        "speaking": 21,
+                        "writing": 21
+                    }
+                },
+                "intake": ["September"],
+                "official_url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/ib",
+                "data_status": "indicative",
+                "data_note": "2025 final IB cut-off was 33-34 subject points overall; predicted cut-off was 35. No specific prerequisites for most Arts programs. Admission is competitive and cut-offs may change.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 36,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "reading": 6.0,
+                        "listening": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 100,
+                        "reading": 21,
+                        "listening": 21,
+                        "speaking": 21,
+                        "writing": 21
+                    }
+                },
+                "intake": ["September"],
+                "official_url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/ib",
+                "data_status": "indicative",
+                "data_note": "Management/Commerce: 2025 final IB cut-off was 36 subject points overall; predicted cut-off was 37. Mathematics prerequisite applies.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 36,
+                "english": {
+                    "ielts": {
+                        "overall": 6.5,
+                        "reading": 6.0,
+                        "listening": 6.0,
+                        "speaking": 6.0,
+                        "writing": 6.0
+                    },
+                    "toefl": {
+                        "overall": 90,
+                        "reading": 21,
+                        "listening": 21,
+                        "speaking": 21,
+                        "writing": 21
+                    }
+                },
+                "intake": ["September"],
+                "official_url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/ib",
+                "data_status": "indicative",
+                "data_note": "2025 final IB cut-off was 36 subject points overall for Biological/Biomedical/Life Sciences and Bio-Physical-Computational Sciences. Requires Mathematics and two of Biology, Chemistry or Physics, with at least one math/science at HL; 6 in each math/science for these groups.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Waterloo",
+        "country": "Canada",
+        "courses": [
+            {
+                "name": "Computer Science",
+                "course_code": null,
+                "field": "Computer Science",
+                "min_ib": 32,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://uwaterloo.ca/future-students/admissions/admission-requirements/computer-science/high-school/international-system/ib",
+                "data_status": "verified",
+                "data_note": "IB total 32. HL Mathematics: Analysis and Approaches minimum 6. HL or SL English A required. Admission Information Form required.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Mathematics",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": 30,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://uwaterloo.ca/future-students/admissions/admission-requirements/mathematics/high-school/international-system/ib",
+                "data_status": "verified",
+                "data_note": "IB total 30. HL Mathematics: Analysis and Approaches minimum 6. HL or SL English A required. Admission Information Form required.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Accounting and Financial Management",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": 28,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://uwaterloo.ca/future-students/admissions/admission-requirements/accounting-finance/high-school/international-system/ib",
+                "data_status": "verified",
+                "data_note": "IB total 28. HL or SL English A minimum 4, or HL English B minimum 5. HL or SL Mathematics: Analysis and Approaches minimum 4.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Computer Engineering",
+                "course_code": null,
+                "field": "Engineering",
+                "min_ib": 31,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://uwaterloo.ca/future-students/admissions/admission-requirements/computer-eng/high-school/international-system/ib",
+                "data_status": "verified",
+                "data_note": "IB total 31. Mathematics: Analysis and Approaches and Physics minimum 4 each; Chemistry and English A minimum 4 each; one other HL or SL course minimum 4. 6s and 7s recommended. Admission is individual.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Software Engineering",
+                "course_code": null,
+                "field": "Computer Science",
+                "min_ib": 31,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://uwaterloo.ca/future-students/admissions/admission-requirements/software-eng/high-school/international-system/ib",
+                "data_status": "verified",
+                "data_note": "IB total 31. Mathematics: Analysis and Approaches and Physics minimum 4 each; Chemistry and English A minimum 4 each; one other HL or SL course minimum 4. 6s and 7s recommended. Additional programming experience and supplementary requirements apply.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "name": "University of Alberta",
+        "country": "Canada",
+        "courses": [
+            {
+                "name": "Bachelor of Science",
+                "course_code": null,
+                "field": "Science",
+                "min_ib": null,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.ualberta.ca/en/admissions/how-to-apply/international-admission-requirements/international-course-equivalencies.html",
+                "data_status": "needs_review",
+                "data_note": "University accepts the IB Diploma and evaluates program-specific admission subjects. Current reliable 2027 program-specific IB competitive score was not confirmed, so no minimum IB score is inferred.",
+                "last_verified": "2026-09-07"
+            },
+            {
+                "name": "Bachelor of Commerce",
+                "course_code": null,
+                "field": "Business",
+                "min_ib": null,
+                "english": null,
+                "intake": ["September"],
+                "official_url": "https://www.ualberta.ca/en/admissions/how-to-apply/international-admission-requirements/international-course-equivalencies.html",
+                "data_status": "needs_review",
+                "data_note": "IB is accepted, but program-specific competitive admission requirements need to be verified before assigning an IB score. No value inferred.",
+                "last_verified": "2026-09-07"
+            }
+        ]
+    }
+]

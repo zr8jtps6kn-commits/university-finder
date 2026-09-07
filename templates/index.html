@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Finder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <h1>University Finder</h1>
+
+    <p>Find universities based on your academic results.</p>
+
+    <h2>Enter your information</h2>
+
+    <form method="POST">
+
+        <label>IB Score:</label>
+        <input
+            type="number"
+            name="ib_score"
+            value="{{ ib_score }}"
+            min="0"
+            max="45"
+            required
+        >
+
+        <br><br>
+
+        <label>TOEFL Score (Please enter score number from 0 to 120):</label>
+        <input
+            type="number"
+            name="toefl_score"
+            min="0"
+            max="120"
+        >
+
+        <br><br>
+
+        <label>IELTS Score:</label>
+        <input
+            type="number"
+            name="ielts_score"
+            min="0"
+            max="9.0"
+            step="0.5"
+        >
+
+        <br><br>
+
+        <label>What do you want to study?</label>
+
+        <select name="field">
+            <option value="All">All Fields</option>
+            <option value="Science">Science</option>
+            <option value="Business">Business</option>
+        </select>
+
+        <br><br>
+
+        <label>Country:</label>
+
+        <select name="country">
+            <option value="All">All Countries</option>
+            <option value="Australia">Australia</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit">Find Universities</button>
+
+    </form>
+
+
+    {% if results %}
+
+        <h2>Courses you may be eligible for:</h2>
+
+        {% for result in results %}
+
+            <div class="result-card">
+
+                <h3>{{ result.university }}</h3>
+
+                {% if result.data_status == "indicative" %}
+                    <p class="data-warning">
+                        ⚠️ Indicative — {{ result.data_note }}
+                    </p>
+                {% elif result.data_status == "needs_review" %}
+                    <p class="data-warning">
+                        ❗ Needs Review — {{ result.data_note }}
+                    </p>
+                {% endif %}
+
+                <p>Country: {{ result.country }}</p>
+
+                <p class="course-name">{{ result.course }}</p>
+
+                <p>Field: {{ result.field }}</p>
+
+                <div class="requirements">
+
+                    <span>IB: {{ result.min_ib }}</span>
+
+                    <span>TOEFL: {{ result.min_toefl }}</span>
+
+                    <span>IELTS: {{ result.min_ielts }}</span>
+
+                </div>
+
+                <p>
+                    <strong>Course Code:</strong> {{ result.course_code }}
+                </p>
+
+                {% if result.intake %}
+                    <p>
+                        <strong>Intake:</strong>
+                        {{ result.intake | join(", ") }}
+                    </p>
+                {% endif %}
+
+                <details>
+                    <summary>English Requirements</summary>
+
+                    {% if result.ielts %}
+                        <div class="english-section">
+
+                            <h4>IELTS</h4>
+
+                            <p>Overall: {{ result.ielts.overall }}</p>
+                            <p>Listening: {{ result.ielts.listening }}</p>
+                            <p>Reading: {{ result.ielts.reading }}</p>
+                            <p>Speaking: {{ result.ielts.speaking }}</p>
+                            <p>Writing: {{ result.ielts.writing }}</p>
+
+                        </div>
+                    {% endif %}
+
+                    {% if result.toefl %}
+                        <div class="english-section">
+
+                            <h4>TOEFL iBT</h4>
+
+                            <p>Overall: {{ result.toefl.overall }}</p>
+                            <p>Listening: {{ result.toefl.listening }}</p>
+                            <p>Reading: {{ result.toefl.reading }}</p>
+                            <p>Speaking: {{ result.toefl.speaking }}</p>
+                            <p>Writing: {{ result.toefl.writing }}</p>
+
+                        </div>
+                    {% endif %}
+
+                </details>
+
+                <details>
+                    <summary>More Details</summary>
+
+                    <p>
+                        <strong>Data Status:</strong>
+                        {{ result.data_status }}
+                    </p>
+
+                    {% if result.data_note %}
+                        <p>
+                            <strong>Data Note:</strong>
+                            {{ result.data_note }}
+                        </p>
+                    {% endif %}
+
+                    {% if result.last_verified %}
+                        <p>
+                            <strong>Last Verified:</strong>
+                            {{ result.last_verified }}
+                        </p>
+                    {% endif %}
+
+                </details>
+
+                <a href="{{ result.official_url }}" target="_blank" class="official-link">
+                    View Official Website
+                </a>
+
+            </div>
+
+            
+
+        {% endfor %}
+
+    {% endif %}
+
+</body>
+</html>

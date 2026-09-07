@@ -1,0 +1,287 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 24px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+body > p {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+}
+form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+button {
+    width: 100%;
+    padding: 14px;
+    margin-top: 20px;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    border: none;
+    border-radius: 8px;
+
+    background-color: #1a73e8;
+    color: white;
+
+    cursor: pointer;
+}
+button:hover {
+    background-color: #1558b0;
+}
+.result-card {
+    background-color: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.result-card h3 {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.requirements {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.requirements span {
+    background-color: #eef4ff;
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+form {
+    margin-bottom: 40px;
+}
+
+.result-card h3 {
+    font-size: 26px;
+    margin-bottom: 8px;
+}
+
+.result-card p {
+    margin: 6px 0;
+}
+
+.course-name {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.result-card p {
+    color: #555;
+}
+
+.course-name {
+    color: #222;
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.official-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 16px;
+
+    background-color: #1a73e8;
+    color: white;
+
+    text-decoration: none;
+    font-weight: bold;
+
+    border-radius: 8px;
+}
+
+.official-link:hover {
+    background-color: #1558b0;
+}
+
+.data-warning {
+    margin-top: 15px;
+    padding: 12px;
+    background-color: #fff3cd;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #664d03;
+}
+
+details {
+    margin-top: 15px;
+}
+
+details summary {
+    display: inline-flex;
+    align-items: center;
+    padding: 9px 15px;
+    background: white;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    transition: all 0.2s ease;
+    list-style: none;
+}
+
+details summary::-webkit-details-marker {
+    display: none;
+}
+
+details summary::after {
+    content: "＋";
+    margin-left: 8px;
+    font-size: 16px;
+}
+
+details[open] summary::after {
+    content: "−";
+}
+
+details summary:hover {
+    background: #f7f7f7;
+    border-color: #999;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+details[open] summary {
+    background: #f7f7f7;
+    border-color: #999;
+}
+
+/* =========================
+   Mobile Responsive Design
+   ========================= */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 20px;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        line-height: 1.5;
+    }
+
+    /* Form */
+
+    form {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    input,
+    select,
+    button {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+
+    input,
+    select {
+        padding: 10px;
+    }
+
+    button {
+        padding: 12px;
+        cursor: pointer;
+    }
+
+    /* Result cards */
+
+    .result-card {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        padding: 18px;
+    }
+
+    /* Requirements */
+
+    .requirements {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    /* Details buttons */
+
+    details {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    details summary {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* Official website button */
+
+    .official-link {
+        display: block;
+        text-align: center;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 12px;
+        margin-top: 15px;
+    }
+}
