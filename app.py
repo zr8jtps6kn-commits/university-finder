@@ -6,6 +6,25 @@ app = Flask(__name__)
 with open("universities.json", "r") as file:
     universities = json.load(file)
 
+@app.route("/robots.txt")
+def robots():
+    return """User-agent: *
+Allow: /
+
+Sitemap: https://university-finder-5bcb.onrender.com/sitemap.xml
+"""
+
+
+@app.route("/sitemap.xml")
+def sitemap():
+    return """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://university-finder-5bcb.onrender.com/</loc>
+    </url>
+</urlset>
+"""
+
 @app.route("/", methods=["GET", "POST"])
 def home():
 
